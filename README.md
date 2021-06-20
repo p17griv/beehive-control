@@ -7,6 +7,8 @@
 
 Also, a **[user persona](https://raw.githubusercontent.com/p17griv/beehive-control/main/imgs/user-persona.jpg?token=AKO5VY7Q7VVWZNIWUQ5WK53A3C4MS)** was created, in order to describe the target group of people who might find this solution useful!
 
+###### *[Logo](https://codepen.io/joygarcia4/pen/NqqOZe)
+
 ## [How It Works](https://github.com/p17griv/beehive-control/wiki/How-It-Works)
 
 ## [Installation Guide (Demo)](https://github.com/p17griv/beehive-control/wiki/Installation-Guide)
