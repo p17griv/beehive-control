@@ -11,6 +11,8 @@ Also, a **[user persona](https://raw.githubusercontent.com/p17griv/beehive-contr
 
 ## [How It Works](https://github.com/p17griv/beehive-control/wiki/How-It-Works)
 
+## [Applications](https://github.com/p17griv/beehive-control/wiki/Applications)
+
 ## [Installation Guide (Demo)](https://github.com/p17griv/beehive-control/wiki/Installation-Guide)
 
 ![Beehive Control - Infografic](https://github.com/p17griv/beehive-control/blob/main/imgs/infographic-eng.jpg "Beehive Control - Infografic")
