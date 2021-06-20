@@ -16,3 +16,5 @@ Also, a **[user persona](https://raw.githubusercontent.com/p17griv/beehive-contr
 ## [Installation Guide (Demo)](https://github.com/p17griv/beehive-control/wiki/Installation-Guide)
 
 ![Beehive Control - Infografic](https://github.com/p17griv/beehive-control/blob/main/imgs/infographic-eng.jpg "Beehive Control - Infografic")
+
+###### *[Infographic](https://gifographics.co/soft-product-launch-psd-template/)
